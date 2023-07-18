@@ -1,10 +1,10 @@
 <a href="https://precedent.dev">
   <img alt="Precedent – Building blocks for your Next project" src="https://precedent.dev/opengraph-image">
-  <h1 align="center">Precedent</h1>
+  <h1 align="center">FPL Master</h1>
 </a>
 
 <p align="center">
-  FPL Master: Unlock your full potential as a fantasy premier league manager with data-driven insights
+  Unlock your full potential as a fantasy premier league manager with data-driven insights
 </p>
 
 <p align="center">
