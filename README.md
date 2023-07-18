@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
-  Building blocks for your Next project
+  FPL Master: Unlock your full potential as a fantasy premier league manager with data-driven insights
 </p>
 
 <p align="center">
